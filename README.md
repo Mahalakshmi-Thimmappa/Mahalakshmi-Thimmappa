@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Mahalakshmi-Thimmappa/Mahalakshmi-Thimmappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mahalakshmi
+I am a Data Scientist enthusiast, with skills in Python, Statistics, Machine Learning and Deep Learning. I have worked on frameworks such as Scikit-learn, and Flask. I have built End to End projects with machine learning. I am also having good hands on experience writing complex Database SQL queries. Good at Oracle SQL, MongoDB and SQL Lite along with the Knowledge of Excel and Tableau.
 
-Here are some ideas to get you started:
+My key skills in data science projects include EDA, feature Engineering, data cleaning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Python / Machine Learning / Statistics / Feature Engineering
+
+- 🔭 I’m currently working on Time Series
+- 🌱 I’m currently learning and exploring Deep Learning concepts
+- 👯 I’m looking to collaborate on kaggle competitions
+- 🤔 I’m looking for help with creating CI/CD pipelines
+- 📫 How to reach me: Linkedin
