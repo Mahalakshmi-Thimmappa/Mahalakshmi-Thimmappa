@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Mahalakshmi
+My name is Mahalakshmi.
+
 I am a Data Scientist enthusiast, with skills in Python, Statistics, Machine Learning and Deep Learning. I have worked on frameworks such as Scikit-learn, and Flask. I have built End to End projects with machine learning. I am also having good hands on experience writing complex Database SQL queries. Good at Oracle SQL, MongoDB and SQL Lite along with the Knowledge of Excel and Tableau.
 
 My key skills in data science projects include EDA, feature Engineering, data cleaning.
