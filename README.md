@@ -8,7 +8,7 @@ My key skills in data science projects include EDA, feature Engineering, Feature
 
 Skills: Python / Machine Learning / Statistics / DeepLearning
 
-- 🔭 I’m currently working on Time Series
+- 🔭 I’m currently working on CNN.RNN
 - 🌱 I’m currently learning and exploring Deep Learning concepts
 - 👯 I’m looking to collaborate on kaggle competitions
 - 🤔 I’m looking for help with NLP projects
